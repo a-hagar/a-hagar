@@ -1,5 +1,5 @@
 
-## <h2 text align='center'>About Me</h2>
+## About Me
 
 - Full-stack developer based in Toronto, ON
 - Specializes in front-end development and web design
