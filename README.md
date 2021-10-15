@@ -4,7 +4,7 @@
 - Full-stack developer based in Toronto, ON
 - Specializes in front-end development and web design
 - Capable of back-end devlopment and database design
-- Currently Learning:
+- Currently learning/working with:
   - Python / Django
   - Vue
   - React  
