@@ -2,8 +2,8 @@
 ## About Me
 
 - Full-stack developer based in Toronto, ON
-- Specializes in front-end development and web design
-- Capable of back-end devlopment and database design
+- Specializes in front-end development, accessible and responsive web design
+- Capable of back-end devlopment and relational database design
 
 
 <br>
